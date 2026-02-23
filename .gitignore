@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+data/questions.db
+data/*.npy
+data/*.index
