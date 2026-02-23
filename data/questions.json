@@ -1,0 +1,32 @@
+[
+  {
+    "id": "q1",
+    "short_summary": "解一元一次方程：2x+3=11",
+    "full_text": "求方程 2x + 3 = 11 的解。",
+    "answer": "x = 4",
+    "difficulty": 2,
+    "tags": ["代数", "一元一次方程"],
+    "qtype": "compute",
+    "est_time_seconds": 60
+  },
+  {
+    "id": "q2",
+    "short_summary": "判断质数：29 是否为质数",
+    "full_text": "判断 29 是否为质数，并说明理由。",
+    "answer": "是质数",
+    "difficulty": 3,
+    "tags": ["数论", "质数"],
+    "qtype": "choice",
+    "est_time_seconds": 90
+  },
+  {
+    "id": "q3",
+    "short_summary": "阅读理解：短文主旨归纳",
+    "full_text": "（短文）请概括短文主旨并列出两点细节支持。",
+    "answer": "主旨：X；细节：...",
+    "difficulty": 5,
+    "tags": ["语文", "阅读理解"],
+    "qtype": "essay",
+    "est_time_seconds": 300
+  }
+]
